@@ -1,2 +1,2 @@
-# -G-ratio_automation
+# G-ratio_automation
 Automation of g-ratio measurement
