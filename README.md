@@ -1,2 +1,2 @@
-# G-ratio_automation
-Automation of g-ratio measurement
+# G-ratio automation
+Computer Vision application of g-ratio measurement 
