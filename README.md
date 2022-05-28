@@ -10,20 +10,20 @@ g-ratio parameter takes a cross section image of a nerve (obtained by Electron M
 Currently, g-ratio quantification is done manually in Leah Amit lab, a task which is tedious and extremely time-consuming. Using Computer Vision, this software is able to detect the outline of the myelin layer and calculate the g-ratio automatically after setting a single threshold parameter for each image. This allows to collect data on a much larger scale in just a few minutes.
 
 #
-##### Login Page
+### Login Page
 ![alt text](/github_images/login_page.PNG)
 
 #
-##### Load images
+### Load images
 ![alt text](/github_images/upload_images.PNG)
 
 #
-##### Image output
+### Image output
 ![alt text](/github_images/result.PNG)
 ![alt text](/github_images/g-ratio.PNG)
 
 #
-##### Final result
+### Final result
 ![alt text](/github_images/result.PNG)
 
 
