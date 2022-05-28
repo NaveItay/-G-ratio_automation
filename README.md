@@ -24,7 +24,10 @@ Currently, g-ratio quantification is done manually in Leah Amit lab, a task whic
 
 #
 ### Final result
-![alt text](/github_images/result.PNG)
+The excel table exported includes details on every insulated fiber that was detected. Each row is a different fiber, consisting of the inner and outer outline. Columns include the following details for each fiber: Inner and outer circle area, Inner and outer circle radius, axon diameter, genes (group it belongs to - WT or KO) and finally g-ratio.
+
+After going through all the images, a scatter plot will pop up: comparing 2 groups: “WT” (untreated) in red, and “KO” (treated) in blue. This is the classic plot used in papers by scientists studying electrical current in nerve cells.
+![alt text](/github_images/diagram3.PNG)
 
 
 ##### Copyright
