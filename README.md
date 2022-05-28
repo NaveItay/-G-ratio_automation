@@ -13,16 +13,16 @@ Currently, g-ratio quantification is done manually in Leah Amit lab, a task whic
 ##### Login Page
 ![alt text](/github_images/login_page.PNG)
 
+#
 ##### Load images
 ![alt text](/github_images/upload_images.PNG)
 
-##### Image output
-![alt text](/github_images/result.PNG)
-
+#
 ##### Image output
 ![alt text](/github_images/result.PNG)
 ![alt text](/github_images/g-ratio.PNG)
 
+#
 ##### Final result
 ![alt text](/github_images/result.PNG)
 
