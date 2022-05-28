@@ -8,7 +8,7 @@ Computer Vision application of g-ratio measurement
 
 #
 ##### Copyright
-<br />
+  <br />
 * [Itay Nave] Computer Vision & Embedded Enginner
-<br />
+  <br />
 * [Amit Leah] Msc student biological researcher
