@@ -31,5 +31,5 @@ After going through all the images, a scatter plot will pop up: comparing 2 grou
 
 
 ##### Copyright
-* [Itay Nave] Computer Vision & Embedded Enginner
+* [Itay Nave] Computer Vision & Embedded Software Enginner
 * [Amit Leah] Msc student biological researcher
