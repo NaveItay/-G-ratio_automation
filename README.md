@@ -30,6 +30,6 @@ After going through all the images, a scatter plot will pop up: comparing 2 grou
 ![alt text](/github_images/diagram3.PNG)
 
 
-##### Copyright
+##### Authors
 * [Itay Nave] Computer Vision & Embedded Enginner
 * [Amit Leah] Msc student biological researcher
